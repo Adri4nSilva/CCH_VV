@@ -1,1 +1,5 @@
-Relatório de Verificação e Validação
+# Cenários de teste
+
+    -Filtragem de produtos
+    -Navegação dos produtos
+    -Pesquisa de produtos
